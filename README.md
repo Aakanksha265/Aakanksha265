@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aakanksha
 - 👀 I’m interested in Java and Python 
 - 🌱 I’m currently learning HTML, python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development and software development
 - 📫 How to reach me ...
 
 <!---
